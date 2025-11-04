@@ -1,4 +1,4 @@
-```# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Aquaponics Automation<br>🤝 I’m looking for help with Retrieval-Augmented Generation<br>🌱 I’m currently learning Python Tensorflow<br>💬 Ask me about Prompt Engineering<br>⚡ Fun fact : The first computer bug was an actual bug!
 
 
@@ -17,4 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coder9992708&icon=1&color=0)](https://visitcount.itsvg.in)
-```
